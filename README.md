@@ -7,8 +7,8 @@
 
 <h2>This code is geomertic calculator</h2>
 
-> =========================================
-In this code you can solve geometric problems
+> ========================================= <br>
+> In this code you can solve geometric problems
 
 1. peremitr
 2. picture
