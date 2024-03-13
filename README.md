@@ -7,7 +7,7 @@
 
 <h2>This code is geomertic calculator</h2>
 
-> ========================================= <br>
+> == <br>
 > In this code you can solve geometric problems
 
 1. peremitr
@@ -17,4 +17,4 @@
 ![CODE](/img/carbon.png)
 
 > <h2>RUN CODE</h2>
-![run code](/img/run%20code.gif)
+![run code](/img/carbon.png)
