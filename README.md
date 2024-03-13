@@ -14,8 +14,8 @@
 1. Peremitr
 2. Picture
 
-> <h2>CODE</h2>
+> <h3>CODE</h3>
 ![CODE](/img/carbon.png)
 
-> <h2>RUN CODE</h2>
+> <h3>RUN CODE</h3>
 ![run code](/img/run%20code.gif)
