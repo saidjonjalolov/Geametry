@@ -10,8 +10,8 @@
 > == <br>
 > In this code you can solve geometric problems
 
-1. peremitr
-2. picture
+1. Peremitr
+2. Picture
 
 > <h2>CODE</h2>
 ![CODE](/img/carbon.png)
